@@ -1,0 +1,16 @@
+/bootstrap/compiled.php
+/vendor
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+/node_modules
+/public/public
+/public/uploads
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+/.vagrant
+/Downloads
+/app/storage

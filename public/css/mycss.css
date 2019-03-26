@@ -1,0 +1,7 @@
+/*#scrollable{
+	overflow-y: scroll;
+	height:500px;
+}*/
+.navbar-right{
+	margin-right: 0px !important; 
+}
