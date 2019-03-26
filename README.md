@@ -1,25 +1,3 @@
-## Laravel PHP Framework
+## Fuse Storage
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
-
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
-
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
-
-## Official Documentation
-
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
-
-### Contributing To Laravel
-
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+Fuse aims to give light to these problems by utilizing free cloud storage services and consolidating them and abstracting the file storage methodology into one cloud. Moreover, through the incorporation of Fuse with prominent cloud storage services, it can enable a vast horizon for work efficiency, such as Google Drive, Dropbox, and Box. Fuse incorporates these cloud services to access their classified files into one centralized environment. With Google Drive possessing a storage capacity of 15GB, Dropbox with 2GB and Box having 10GB, the users would be able to arrange and organize files and documents. Additionally, each cloud service is enforced a margin quota of 2GB, excluding Dropbox, to bypass being impeded by the said service providers. Tools used Laravel 4.2, MySQL, Google API, Dropbox API and Box Api
